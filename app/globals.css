@@ -1,0 +1,192 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════
+   ANTI-DESIGN / MAXIMALISM — Public Data Kebumen
+   "Data serius, tampilan berani"
+   ═══════════════════════════════════════════════ */
+
+@theme {
+  --color-ink: #171412;
+  --color-canvas: #f4efe4;
+  --color-hot: #e8422e;
+  --color-acid: #c8f04b;
+  --color-electric: #2b48ff;
+  --color-candy: #ff8ad4;
+  --color-mustard: #ffc918;
+  --color-swamp: #1f7a4d;
+  --font-display: "Archivo Black", var(--font-archivo), sans-serif;
+  --font-body: "Space Grotesk", var(--font-space), sans-serif;
+}
+
+html {
+  background: var(--color-canvas);
+  cursor: crosshair;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-ink);
+  overflow-x: hidden;
+}
+
+::selection {
+  background: var(--color-acid);
+  color: var(--color-ink);
+}
+
+/* ── Tipografi raksasa ── */
+.mega {
+  font-family: var(--font-display);
+  line-height: 0.86;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+.giant-num {
+  font-family: var(--font-display);
+  font-size: clamp(3.5rem, 11vw, 9rem);
+  line-height: 0.85;
+  letter-spacing: -0.04em;
+}
+
+/* ── Kartu miring acak ── */
+.anti-card {
+  border: 3px solid var(--color-ink);
+  background: #fff;
+  box-shadow: 7px 7px 0 var(--color-ink);
+  transition: transform 0.18s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.18s;
+}
+.anti-card:hover {
+  transform: translate(-2px, -2px) rotate(0deg) !important;
+  box-shadow: 11px 11px 0 var(--color-ink);
+}
+.tilt-1 { transform: rotate(-1.2deg); }
+.tilt-2 { transform: rotate(0.9deg); }
+.tilt-3 { transform: rotate(-0.5deg); }
+.tilt-4 { transform: rotate(1.6deg); }
+
+/* ── Sticker / tape label ── */
+.sticker {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.28rem 0.7rem;
+  border: 2px solid var(--color-ink);
+  box-shadow: 3px 3px 0 var(--color-ink);
+  transform: rotate(-2deg);
+}
+.sticker-alt { transform: rotate(1.5deg); }
+
+/* ── Marquee ── */
+.marquee-wrap {
+  overflow: hidden;
+  border-top: 3px solid var(--color-ink);
+  border-bottom: 3px solid var(--color-ink);
+  background: var(--color-ink);
+  color: var(--color-canvas);
+}
+.marquee {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: marquee 22s linear infinite;
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  padding: 0.55rem 0;
+}
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* ── Noise / tekstur ── */
+.noise::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 60;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ── Angka KPI raksasa dengan garis bawah tebal ── */
+.kpi-block {
+  border: 3px solid var(--color-ink);
+  box-shadow: 8px 8px 0 var(--color-ink);
+  padding: 1.2rem 1.4rem;
+}
+
+/* ── Tabel anti-design ── */
+.anti-table { border-collapse: collapse; width: 100%; }
+.anti-table th {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  background: var(--color-mustard);
+  border: 3px solid var(--color-ink);
+  padding: 0.5rem 0.7rem;
+  text-align: left;
+}
+.anti-table td {
+  border: 2px solid var(--color-ink);
+  padding: 0.45rem 0.7rem;
+  font-size: 0.9rem;
+}
+.anti-table tr:hover td { background: var(--color-acid); }
+
+/* ── Tombol chunky ── */
+.anti-btn {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  border: 3px solid var(--color-ink);
+  background: #fff;
+  box-shadow: 4px 4px 0 var(--color-ink);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: all 0.12s;
+}
+.anti-btn:hover { background: var(--color-acid); }
+.anti-btn:active, .anti-btn.on {
+  transform: translate(3px, 3px);
+  box-shadow: 1px 1px 0 var(--color-ink);
+  background: var(--color-mustard);
+}
+
+/* ── Link underline tebal ── */
+.anti-link {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--color-hot);
+}
+.anti-link:hover { background: var(--color-mustard); }
+
+/* ── Leaflet di dalam kartu ── */
+.leaflet-container {
+  font-family: var(--font-body) !important;
+  background: #e8e2d4;
+}
+.leaflet-popup-content-wrapper {
+  border: 3px solid var(--color-ink) !important;
+  border-radius: 0 !important;
+  box-shadow: 5px 5px 0 var(--color-ink) !important;
+}
+.leaflet-popup-tip { border: 2px solid var(--color-ink); }
+
+/* ── Scrollbar chunky ── */
+::-webkit-scrollbar { width: 14px; }
+::-webkit-scrollbar-track { background: var(--color-canvas); }
+::-webkit-scrollbar-thumb {
+  background: var(--color-ink);
+  border: 3px solid var(--color-canvas);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee { animation: none; }
+  .anti-card, .anti-btn { transition: none; }
+}

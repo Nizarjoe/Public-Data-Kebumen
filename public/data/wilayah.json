@@ -1,0 +1,2713 @@
+{
+ "kecamatan": [
+  {
+   "kode": "33.05.15",
+   "nama": "Adimulyo",
+   "penduduk_jiwa": 53634,
+   "luas_km2": 54.4,
+   "desa": [
+    "Adikarto",
+    "Adiluhur",
+    "Adimulyo",
+    "Arjomulyo",
+    "Arjosari",
+    "Banyuroto",
+    "Bonjok",
+    "Candi Wulan",
+    "Caruban",
+    "Joho",
+    "Kemujan",
+    "Mangunharjo",
+    "Meles",
+    "Pekuwon",
+    "Sekarteja",
+    "Sidamukti",
+    "Sidamulyo",
+    "Sugihwaras",
+    "Tambakharjo",
+    "Tegalsari",
+    "Temanggal",
+    "Tepakyang",
+    "Wajasari"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Adikarto": {
+     "lat": -7.6713158,
+     "lon": 109.5875193
+    },
+    "Adiluhur": {
+     "lat": -7.6825942,
+     "lon": 109.5578159
+    },
+    "Adimulyo": {
+     "lat": -7.6676177,
+     "lon": 109.5751944
+    },
+    "Arjomulyo": {
+     "lat": -7.6481678,
+     "lon": 109.5274846
+    },
+    "Arjosari": {
+     "lat": -7.651435,
+     "lon": 109.5496792
+    },
+    "Banyuroto": {
+     "lat": -7.657394,
+     "lon": 109.5699548
+    },
+    "Bonjok": {
+     "lat": -7.6576379,
+     "lon": 109.5395857
+    },
+    "Caruban": {
+     "lat": -7.6626877,
+     "lon": 109.5517407
+    },
+    "Joho": {
+     "lat": -7.6893651,
+     "lon": 109.5720716
+    },
+    "Kemujan": {
+     "lat": -7.6743661,
+     "lon": 109.5519894
+    },
+    "Mangunharjo": {
+     "lat": -7.6682244,
+     "lon": 109.565677
+    },
+    "Meles": {
+     "lat": -7.6515531,
+     "lon": 109.5636333
+    },
+    "Pekuwon": {
+     "lat": -7.6408649,
+     "lon": 109.560644
+    },
+    "Sekarteja": {
+     "lat": -7.6682074,
+     "lon": 109.5380799
+    },
+    "Sugihwaras": {
+     "lat": -7.6989243,
+     "lon": 109.5461926
+    },
+    "Tegalsari": {
+     "lat": -7.6790168,
+     "lon": 109.5393142
+    },
+    "Temanggal": {
+     "lat": -7.6812657,
+     "lon": 109.5731877
+    },
+    "Tepakyang": {
+     "lat": -7.6979447,
+     "lon": 109.563771
+    },
+    "Wajasari": {
+     "lat": -7.6979812,
+     "lon": 109.5788464
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6676177,
+    "lon": 109.5751944,
+    "label": "Adimulyo, Kebumen, Jawa Tengah, 54363, Indonesia"
+   },
+   "desa_mapped": 19,
+   "desa_total": 23
+  },
+  {
+   "kode": "33.05.11",
+   "nama": "Alian",
+   "penduduk_jiwa": 44723,
+   "luas_km2": 67.7,
+   "desa": [
+    "Bojongsari",
+    "Jatimulyo",
+    "Kalijaya",
+    "Kaliputih",
+    "Kalirancang",
+    "Kambangsari",
+    "Karangkembang",
+    "Karangtanjung",
+    "Kemangguhan",
+    "Krakal",
+    "Sawangan",
+    "Seliling",
+    "Surotrunan",
+    "Tanuharjo",
+    "Tlogowulung",
+    "Wonokromo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Bojongsari": {
+     "lat": -7.6621389,
+     "lon": 109.7145762
+    },
+    "Jatimulyo": {
+     "lat": -7.6404369,
+     "lon": 109.532599
+    },
+    "Kalijaya": {
+     "lat": -7.624527,
+     "lon": 109.6849099
+    },
+    "Kaliputih": {
+     "lat": -7.6185141,
+     "lon": 109.7506775
+    },
+    "Kalirancang": {
+     "lat": -7.6177423,
+     "lon": 109.7061181
+    },
+    "Kambangsari": {
+     "lat": -7.6524774,
+     "lon": 109.6944719
+    },
+    "Karangkembang": {
+     "lat": -7.6416922,
+     "lon": 109.6852335
+    },
+    "Karangtanjung": {
+     "lat": -7.6461055,
+     "lon": 109.6729741
+    },
+    "Kemangguhan": {
+     "lat": -7.6306459,
+     "lon": 109.6676658
+    },
+    "Krakal": {
+     "lat": -7.603928,
+     "lon": 109.6994004
+    },
+    "Sawangan": {
+     "lat": -7.6234243,
+     "lon": 109.5445554
+    },
+    "Seliling": {
+     "lat": -7.6453308,
+     "lon": 109.7078588
+    },
+    "Surotrunan": {
+     "lat": -7.6529718,
+     "lon": 109.7071843
+    },
+    "Tanuharjo": {
+     "lat": -7.6467253,
+     "lon": 109.6800375
+    },
+    "Tlogowulung": {
+     "lat": -7.6389446,
+     "lon": 109.7350752
+    },
+    "Wonokromo": {
+     "lat": -7.6218463,
+     "lon": 109.7297089
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6132913,
+    "lon": 109.702798,
+    "label": "Alian, Kebumen, Jawa Tengah, 54353, Indonesia"
+   },
+   "desa_mapped": 16,
+   "desa_total": 16
+  },
+  {
+   "kode": "33.05.07",
+   "nama": "Ambal",
+   "penduduk_jiwa": 54963,
+   "luas_km2": 60.4,
+   "desa": [
+    "Ambalkebrek",
+    "Ambalkliwonan",
+    "Ambalresmi",
+    "Ambarwinangun",
+    "Banjarsari",
+    "Benerkulon",
+    "Benerwetan",
+    "Blengorkulon",
+    "Blengorwetan",
+    "Dukuhrejasari",
+    "Entak",
+    "Gondanglegi",
+    "Kaibon",
+    "Kaibonpetangkuran",
+    "Kembangsawit",
+    "Kenayajayan",
+    "Kradenan",
+    "Lajer",
+    "Pagedangan",
+    "Pasarsenen",
+    "Peneket",
+    "Plempukankembaran",
+    "Prasutan",
+    "Pucangan",
+    "Sidareja",
+    "Sidoluhur",
+    "Sidomukti",
+    "Sidomulyo",
+    "Singosari",
+    "Sinungreja",
+    "Sumberjati",
+    "Surobayan"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Ambalkebrek": {
+     "lat": -7.7728268,
+     "lon": 109.71456
+    },
+    "Ambalkliwonan": {
+     "lat": -7.7690028,
+     "lon": 109.7340614
+    },
+    "Ambalresmi": {
+     "lat": -7.7943289,
+     "lon": 109.7258046
+    },
+    "Ambarwinangun": {
+     "lat": -7.7472302,
+     "lon": 109.7566943
+    },
+    "Banjarsari": {
+     "lat": -7.630707,
+     "lon": 109.5293822
+    },
+    "Benerkulon": {
+     "lat": -7.7793903,
+     "lon": 109.7427087
+    },
+    "Benerwetan": {
+     "lat": -7.7845214,
+     "lon": 109.7523576
+    },
+    "Blengorkulon": {
+     "lat": -7.7862425,
+     "lon": 109.7600447
+    },
+    "Blengorwetan": {
+     "lat": -7.7902213,
+     "lon": 109.7682536
+    },
+    "Entak": {
+     "lat": -7.7879311,
+     "lon": 109.7025043
+    },
+    "Gondanglegi": {
+     "lat": -7.7695624,
+     "lon": 109.7083314
+    },
+    "Kaibon": {
+     "lat": -7.7995403,
+     "lon": 109.7471214
+    },
+    "Kaibonpetangkuran": {
+     "lat": -7.7900719,
+     "lon": 109.7340657
+    },
+    "Kembangsawit": {
+     "lat": -7.7266418,
+     "lon": 109.7274314
+    },
+    "Kradenan": {
+     "lat": -7.7377195,
+     "lon": 109.7556721
+    },
+    "Lajer": {
+     "lat": -7.7444,
+     "lon": 109.7253807
+    },
+    "Pagedangan": {
+     "lat": -7.7424889,
+     "lon": 109.7447053
+    },
+    "Pasarsenen": {
+     "lat": -7.7721276,
+     "lon": 109.7269307
+    },
+    "Peneket": {
+     "lat": -7.7539092,
+     "lon": 109.767186
+    },
+    "Plempukankembaran": {
+     "lat": -7.7818681,
+     "lon": 109.7048892
+    },
+    "Prasutan": {
+     "lat": -7.7284811,
+     "lon": 109.7552076
+    },
+    "Pucangan": {
+     "lat": -7.7719596,
+     "lon": 109.7211248
+    },
+    "Sidoluhur": {
+     "lat": -7.7663747,
+     "lon": 109.7448717
+    },
+    "Sidomukti": {
+     "lat": -7.6995032,
+     "lon": 109.5011525
+    },
+    "Sidomulyo": {
+     "lat": -7.7352282,
+     "lon": 109.7684233
+    },
+    "Singosari": {
+     "lat": -7.7559791,
+     "lon": 109.73313
+    },
+    "Sumberjati": {
+     "lat": -7.802168,
+     "lon": 109.7574309
+    },
+    "Surobayan": {
+     "lat": -7.7309156,
+     "lon": 109.7486019
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7881078,
+    "lon": 109.7300505,
+    "label": "Ambal, Kebumen, Jawa Tengah, 54392, Indonesia"
+   },
+   "desa_mapped": 28,
+   "desa_total": 32
+  },
+  {
+   "kode": "33.05.01",
+   "nama": "Ayah",
+   "penduduk_jiwa": 50371,
+   "luas_km2": 116.4,
+   "desa": [
+    "Argopeni",
+    "Argosari",
+    "Ayah",
+    "Banjararjo",
+    "Bulurejo",
+    "Candirenggo",
+    "Demangsari",
+    "Jatijajar",
+    "Jintung",
+    "Kalibangkang",
+    "Kalipoh",
+    "Karangduwur",
+    "Kedungweru",
+    "Mangunweni",
+    "Pasir",
+    "Srati",
+    "Tlogosari",
+    "Watukelir"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Argopeni": {
+     "lat": -7.7432353,
+     "lon": 109.3989171
+    },
+    "Argosari": {
+     "lat": -7.7262628,
+     "lon": 109.425916
+    },
+    "Ayah": {
+     "lat": -7.7162568,
+     "lon": 109.3931512
+    },
+    "Banjararjo": {
+     "lat": -7.7447243,
+     "lon": 109.4453948
+    },
+    "Bulurejo": {
+     "lat": -7.6675822,
+     "lon": 109.3931872
+    },
+    "Candirenggo": {
+     "lat": -7.6942819,
+     "lon": 109.3999847
+    },
+    "Jatijajar": {
+     "lat": -7.6675734,
+     "lon": 109.4199282
+    },
+    "Jintung": {
+     "lat": -7.7501152,
+     "lon": 109.4378177
+    },
+    "Kalibangkang": {
+     "lat": -7.711217,
+     "lon": 109.428725
+    },
+    "Kalipoh": {
+     "lat": -7.7281909,
+     "lon": 109.4095108
+    },
+    "Karangduwur": {
+     "lat": -7.7569906,
+     "lon": 109.4081828
+    },
+    "Kedungweru": {
+     "lat": -7.6542968,
+     "lon": 109.3930758
+    },
+    "Mangunweni": {
+     "lat": -7.6752427,
+     "lon": 109.4120647
+    },
+    "Pasir": {
+     "lat": -7.7646292,
+     "lon": 109.4369964
+    },
+    "Srati": {
+     "lat": -7.7506366,
+     "lon": 109.4224484
+    },
+    "Tlogosari": {
+     "lat": -7.7020638,
+     "lon": 109.4170647
+    },
+    "Watukelir": {
+     "lat": -7.7060863,
+     "lon": 109.4471584
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7162568,
+    "lon": 109.3931512,
+    "label": "Ayah, Kebumen, Jawa Tengah, 53283, Indonesia"
+   },
+   "desa_mapped": 17,
+   "desa_total": 18
+  },
+  {
+   "kode": "33.05.23",
+   "nama": "Bonorowo",
+   "penduduk_jiwa": 19321,
+   "luas_km2": 30.8,
+   "desa": [
+    "Balorejo",
+    "Bonjokkidul",
+    "Bonjoklor",
+    "Bonorowo",
+    "Mrentul",
+    "Ngasinan",
+    "Patukrejo",
+    "Pujodadi",
+    "Rowosari",
+    "Sirnoboyo",
+    "Tlogorejo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Balorejo": {
+     "lat": -7.764185,
+     "lon": 109.822526
+    },
+    "Bonjokkidul": {
+     "lat": -7.7471268,
+     "lon": 109.8084183
+    },
+    "Bonjoklor": {
+     "lat": -7.7409155,
+     "lon": 109.8114241
+    },
+    "Bonorowo": {
+     "lat": -7.7524059,
+     "lon": 109.8074833
+    },
+    "Mrentul": {
+     "lat": -7.7325429,
+     "lon": 109.8138578
+    },
+    "Ngasinan": {
+     "lat": -7.7898521,
+     "lon": 109.826312
+    },
+    "Patukrejo": {
+     "lat": -7.7805789,
+     "lon": 109.8192415
+    },
+    "Pujodadi": {
+     "lat": -7.7618604,
+     "lon": 109.8257805
+    },
+    "Rowosari": {
+     "lat": -7.7675339,
+     "lon": 109.8106524
+    },
+    "Sirnoboyo": {
+     "lat": -7.7589822,
+     "lon": 109.7954049
+    },
+    "Tlogorejo": {
+     "lat": -7.7589611,
+     "lon": 109.8145893
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7524059,
+    "lon": 109.8074833,
+    "label": "Bonorowo, Kebumen, Jawa Tengah, 54395, Indonesia"
+   },
+   "desa_mapped": 11,
+   "desa_total": 11
+  },
+  {
+   "kode": "33.05.02",
+   "nama": "Buayan",
+   "penduduk_jiwa": 44472,
+   "luas_km2": 93.4,
+   "desa": [
+    "Adiwarno",
+    "Banyumudal",
+    "Buayan",
+    "Geblug",
+    "Jatiroto",
+    "Jladri",
+    "Jogomulyo",
+    "Karangbolong",
+    "Karangsari",
+    "Mergosono",
+    "Nogoraji",
+    "Pakuran",
+    "Purbowangi",
+    "Rangkah",
+    "Rogodadi",
+    "Rogodono",
+    "Semampir",
+    "Sikayu",
+    "Tugu",
+    "Wonodadi"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Adiwarno": {
+     "lat": -7.7293498,
+     "lon": 109.4786498
+    },
+    "Banyumudal": {
+     "lat": -7.6465346,
+     "lon": 109.4717231
+    },
+    "Buayan": {
+     "lat": -7.6820296,
+     "lon": 109.4899392
+    },
+    "Geblug": {
+     "lat": -7.7043661,
+     "lon": 109.4776868
+    },
+    "Jatiroto": {
+     "lat": -7.6088294,
+     "lon": 109.4625444
+    },
+    "Jladri": {
+     "lat": -7.7410098,
+     "lon": 109.465532
+    },
+    "Jogomulyo": {
+     "lat": -7.6229359,
+     "lon": 109.461381
+    },
+    "Karangbolong": {
+     "lat": -7.7538904,
+     "lon": 109.4601851
+    },
+    "Karangsari": {
+     "lat": -7.6555026,
+     "lon": 109.4862977
+    },
+    "Mergosono": {
+     "lat": -7.6309333,
+     "lon": 109.487509
+    },
+    "Nogoraji": {
+     "lat": -7.6316558,
+     "lon": 109.4701807
+    },
+    "Pakuran": {
+     "lat": -7.6939802,
+     "lon": 109.4654077
+    },
+    "Purbowangi": {
+     "lat": -7.6107549,
+     "lon": 109.4785485
+    },
+    "Rangkah": {
+     "lat": -7.7128578,
+     "lon": 109.47976
+    },
+    "Rogodono": {
+     "lat": -7.6455325,
+     "lon": 109.4887753
+    },
+    "Semampir": {
+     "lat": -7.6235435,
+     "lon": 109.4832424
+    },
+    "Sikayu": {
+     "lat": -7.6665796,
+     "lon": 109.4775773
+    },
+    "Tugu": {
+     "lat": -7.6430991,
+     "lon": 109.4510301
+    },
+    "Wonodadi": {
+     "lat": -7.7197126,
+     "lon": 109.4567783
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6820296,
+    "lon": 109.4899392,
+    "label": "Buayan, Kebumen, Jawa Tengah, Indonesia"
+   },
+   "desa_mapped": 19,
+   "desa_total": 20
+  },
+  {
+   "kode": "33.05.06",
+   "nama": "Buluspesantren",
+   "penduduk_jiwa": 48072,
+   "luas_km2": 53.7,
+   "desa": [
+    "Ambalkumolo",
+    "Ampih",
+    "Arjowinangun",
+    "Ayamputih",
+    "Banjurmukadan",
+    "Banjurpasar",
+    "Bocor",
+    "Brecong",
+    "Buluspesantren",
+    "Indrosari",
+    "Jogopaten",
+    "Kloposawit",
+    "Maduretno",
+    "Ranteringin",
+    "Sangubanyu",
+    "Setrojenar",
+    "Sidomoro",
+    "Tambakrejo",
+    "Tanjungrejo",
+    "Tanjungsari",
+    "Waluyo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Ambalkumolo": {
+     "lat": -7.7498509,
+     "lon": 109.6577141
+    },
+    "Ampih": {
+     "lat": -7.741558,
+     "lon": 109.7069499
+    },
+    "Arjowinangun": {
+     "lat": -7.7246262,
+     "lon": 109.5637752
+    },
+    "Ayamputih": {
+     "lat": -7.7750913,
+     "lon": 109.6532589
+    },
+    "Banjurmukadan": {
+     "lat": -7.7662834,
+     "lon": 109.6907207
+    },
+    "Banjurpasar": {
+     "lat": -7.7676456,
+     "lon": 109.6975439
+    },
+    "Bocor": {
+     "lat": -7.7598048,
+     "lon": 109.6685971
+    },
+    "Brecong": {
+     "lat": -7.7833032,
+     "lon": 109.6839793
+    },
+    "Buluspesantren": {
+     "lat": -7.7505009,
+     "lon": 109.6903646
+    },
+    "Indrosari": {
+     "lat": -7.7501028,
+     "lon": 109.7040956
+    },
+    "Jogopaten": {
+     "lat": -7.7290442,
+     "lon": 109.7085583
+    },
+    "Kloposawit": {
+     "lat": -7.726596,
+     "lon": 109.6936256
+    },
+    "Maduretno": {
+     "lat": -7.758957,
+     "lon": 109.6527976
+    },
+    "Sangubanyu": {
+     "lat": -7.7374868,
+     "lon": 109.6844373
+    },
+    "Setrojenar": {
+     "lat": -7.7789684,
+     "lon": 109.6679022
+    },
+    "Sidomoro": {
+     "lat": -7.7206035,
+     "lon": 109.677124
+    },
+    "Tambakrejo": {
+     "lat": -7.7373533,
+     "lon": 109.6683413
+    },
+    "Tanjungrejo": {
+     "lat": -7.7266394,
+     "lon": 109.6708142
+    },
+    "Tanjungsari": {
+     "lat": -7.7209383,
+     "lon": 109.6655378
+    },
+    "Waluyo": {
+     "lat": -7.7639614,
+     "lon": 109.6798611
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7505009,
+    "lon": 109.6903646,
+    "label": "Buluspesantren, Kebumen, Jawa Tengah, 54391, Indonesia"
+   },
+   "desa_mapped": 20,
+   "desa_total": 21
+  },
+  {
+   "kode": "33.05.19",
+   "nama": "Gombong",
+   "penduduk_jiwa": 68593,
+   "luas_km2": 25.5,
+   "desa": [
+    "Banjarsari",
+    "Kalitengah",
+    "Kedungpuji",
+    "Kemukus",
+    "Klopogodo",
+    "Panjangsari",
+    "Patemon",
+    "Semanding",
+    "Semondo",
+    "Sidayu",
+    "Wero",
+    "Wonosigro"
+   ],
+   "kelurahan": [
+    "Gombong",
+    "Wonokriyo"
+   ],
+   "desa_pts": {
+    "Banjarsari": {
+     "lat": -7.630707,
+     "lon": 109.5293822
+    },
+    "Kalitengah": {
+     "lat": -7.6239839,
+     "lon": 109.5094149
+    },
+    "Kedungpuji": {
+     "lat": -7.608438,
+     "lon": 109.533816
+    },
+    "Kemukus": {
+     "lat": -7.6279708,
+     "lon": 109.5189548
+    },
+    "Klopogodo": {
+     "lat": -7.5969104,
+     "lon": 109.5338682
+    },
+    "Panjangsari": {
+     "lat": -7.6169197,
+     "lon": 109.5438204
+    },
+    "Patemon": {
+     "lat": -7.6183062,
+     "lon": 109.5264312
+    },
+    "Semanding": {
+     "lat": -7.5997496,
+     "lon": 109.5064311
+    },
+    "Semondo": {
+     "lat": -7.6152053,
+     "lon": 109.49739
+    },
+    "Sidayu": {
+     "lat": -7.5952315,
+     "lon": 109.5191769
+    },
+    "Wero": {
+     "lat": -7.6102774,
+     "lon": 109.520204
+    },
+    "Wonosigro": {
+     "lat": -7.5938677,
+     "lon": 109.5262893
+    }
+   },
+   "kel_pts": {
+    "Gombong": {
+     "lat": -7.6072736,
+     "lon": 109.5142347
+    },
+    "Wonokriyo": {
+     "lat": -7.6116999,
+     "lon": 109.5089167
+    }
+   },
+   "kec_pt": {
+    "lat": -7.6072736,
+    "lon": 109.5142347,
+    "label": "Gombong, Kebumen, Jawa Tengah",
+    "type": "town"
+   },
+   "desa_mapped": 14,
+   "desa_total": 14
+  },
+  {
+   "kode": "33.05.20",
+   "nama": "Karanganyar",
+   "penduduk_jiwa": 105758,
+   "luas_km2": 62.8,
+   "desa": [
+    "Candi",
+    "Giripurno",
+    "Grenggeng",
+    "Karangkemiri",
+    "Pohkumbang",
+    "Sidomulyo",
+    "Wonorejo"
+   ],
+   "kelurahan": [
+    "Jatiluhur",
+    "Karanganyar",
+    "Panjatan",
+    "Plarangan"
+   ],
+   "desa_pts": {
+    "Candi": {
+     "lat": -7.6316277,
+     "lon": 109.584356
+    },
+    "Giripurno": {
+     "lat": -7.6104997,
+     "lon": 109.5931942
+    },
+    "Grenggeng": {
+     "lat": -7.6073955,
+     "lon": 109.5491864
+    },
+    "Karangkemiri": {
+     "lat": -7.6224315,
+     "lon": 109.5706955
+    },
+    "Pohkumbang": {
+     "lat": -7.582512,
+     "lon": 109.5504416
+    },
+    "Sidomulyo": {
+     "lat": -7.7352282,
+     "lon": 109.7684233
+    },
+    "Wonorejo": {
+     "lat": -7.6116713,
+     "lon": 109.5633146
+    }
+   },
+   "kel_pts": {
+    "Jatiluhur": {
+     "lat": -7.5994207,
+     "lon": 109.4444456
+    },
+    "Karanganyar": {
+     "lat": -7.6313205,
+     "lon": 109.5734343
+    },
+    "Panjatan": {
+     "lat": -7.6314286,
+     "lon": 109.5590314
+    },
+    "Plarangan": {
+     "lat": -7.6271214,
+     "lon": 109.5802375
+    }
+   },
+   "kec_pt": {
+    "lat": -7.6313205,
+    "lon": 109.5734343,
+    "label": "Karanganyar, Kebumen, Jawa Tengah",
+    "type": "town"
+   },
+   "desa_mapped": 11,
+   "desa_total": 11
+  },
+  {
+   "kode": "33.05.21",
+   "nama": "Karanggayam",
+   "penduduk_jiwa": 58547,
+   "luas_km2": 151.2,
+   "desa": [
+    "Binangun",
+    "Clapar",
+    "Ginandong",
+    "Giritirto",
+    "Glontor",
+    "Gunungsari",
+    "Kajoran",
+    "Kalibening",
+    "Kalirejo",
+    "Karanggayam",
+    "Karangmojo",
+    "Karangrejo",
+    "Karangtengah",
+    "Kebakalan",
+    "Logandu",
+    "Pagebangan",
+    "Penimbun",
+    "Selogiri",
+    "Wonotirto"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Binangun": {
+     "lat": -7.5313486,
+     "lon": 109.5804227
+    },
+    "Clapar": {
+     "lat": -7.5573503,
+     "lon": 109.6186126
+    },
+    "Ginandong": {
+     "lat": -7.5528725,
+     "lon": 109.5796784
+    },
+    "Giritirto": {
+     "lat": -7.5187804,
+     "lon": 109.6597401
+    },
+    "Glontor": {
+     "lat": -7.5288289,
+     "lon": 109.6007948
+    },
+    "Gunungsari": {
+     "lat": -7.5397546,
+     "lon": 109.6160886
+    },
+    "Kajoran": {
+     "lat": -7.5888629,
+     "lon": 109.6047944
+    },
+    "Kalibening": {
+     "lat": -7.5426284,
+     "lon": 109.6331262
+    },
+    "Kalirejo": {
+     "lat": -7.5616781,
+     "lon": 109.5869909
+    },
+    "Karanggayam": {
+     "lat": -7.5903132,
+     "lon": 109.5790993
+    },
+    "Karangmojo": {
+     "lat": -7.5747349,
+     "lon": 109.5834327
+    },
+    "Karangrejo": {
+     "lat": -7.7574827,
+     "lon": 109.5746792
+    },
+    "Karangtengah": {
+     "lat": -7.6495328,
+     "lon": 109.7575099
+    },
+    "Kebakalan": {
+     "lat": -7.5566069,
+     "lon": 109.6574276
+    },
+    "Logandu": {
+     "lat": -7.5562647,
+     "lon": 109.6343329
+    },
+    "Pagebangan": {
+     "lat": -7.5593049,
+     "lon": 109.6109813
+    },
+    "Penimbun": {
+     "lat": -7.5724875,
+     "lon": 109.5677739
+    },
+    "Selogiri": {
+     "lat": -7.515148,
+     "lon": 109.6224764
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.5903132,
+    "lon": 109.5790993,
+    "label": "Karanggayam, Kebumen, Jawa Tengah, 54364, Indonesia"
+   },
+   "desa_mapped": 18,
+   "desa_total": 19
+  },
+  {
+   "kode": "33.05.26",
+   "nama": "Karangsambung",
+   "penduduk_jiwa": 32441,
+   "luas_km2": 95.1,
+   "desa": [
+    "Banioro",
+    "Kaligending",
+    "Kalisana",
+    "Karangsambung",
+    "Kedungwaru",
+    "Langse",
+    "Pencil",
+    "Plumbon",
+    "Pujotirto",
+    "Seling",
+    "Tlepok",
+    "Totogan",
+    "Wadasmalang",
+    "Widoro"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Banioro": {
+     "lat": -7.553216,
+     "lon": 109.6804879
+    },
+    "Kaligending": {
+     "lat": -7.5882688,
+     "lon": 109.6812684
+    },
+    "Kalisana": {
+     "lat": -7.5604007,
+     "lon": 109.6947273
+    },
+    "Karangsambung": {
+     "lat": -7.5859431,
+     "lon": 109.6756446
+    },
+    "Kedungwaru": {
+     "lat": -7.5935183,
+     "lon": 109.6671519
+    },
+    "Langse": {
+     "lat": -7.5614996,
+     "lon": 109.6868241
+    },
+    "Pencil": {
+     "lat": -7.6020621,
+     "lon": 109.6808683
+    },
+    "Plumbon": {
+     "lat": -7.5856199,
+     "lon": 109.7151712
+    },
+    "Pujotirto": {
+     "lat": -7.5986728,
+     "lon": 109.7429951
+    },
+    "Seling": {
+     "lat": -7.6044974,
+     "lon": 109.6635034
+    },
+    "Tlepok": {
+     "lat": -7.561438,
+     "lon": 109.7048912
+    },
+    "Totogan": {
+     "lat": -7.5178446,
+     "lon": 109.6735204
+    },
+    "Wadasmalang": {
+     "lat": -7.5632822,
+     "lon": 109.7282235
+    },
+    "Widoro": {
+     "lat": -7.6166439,
+     "lon": 109.6662785
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.5859431,
+    "lon": 109.6756446,
+    "label": "Karangsambung, Kebumen, Jawa Tengah, 54353, Indonesia"
+   },
+   "desa_mapped": 14,
+   "desa_total": 14
+  },
+  {
+   "kode": "33.05.12",
+   "nama": "Kebumen",
+   "penduduk_jiwa": 128956,
+   "luas_km2": 52.04,
+   "desa": [
+    "Adikarso",
+    "Argopeni",
+    "Bandung",
+    "Candimulyo",
+    "Candiwulan",
+    "Depokrejo",
+    "Gemeksekti",
+    "Gesikan",
+    "Jatisari",
+    "Jemur",
+    "Kalibagor",
+    "Kalijirek",
+    "Kalirejo",
+    "Karangsari",
+    "Kawedusan",
+    "Kembaran",
+    "Kutosari",
+    "Mengkowo",
+    "Muktirejo",
+    "Muktisari",
+    "Roworejo",
+    "Sumberadi",
+    "Tanahsari",
+    "Wonosari"
+   ],
+   "kelurahan": [
+    "Bumirejo",
+    "Kebumen",
+    "Panjer",
+    "Selang",
+    "Tamanwinangun"
+   ],
+   "desa_pts": {
+    "Adikarso": {
+     "lat": -7.6910442,
+     "lon": 109.6718724
+    },
+    "Argopeni": {
+     "lat": -7.7432353,
+     "lon": 109.3989171
+    },
+    "Bandung": {
+     "lat": -7.6653235,
+     "lon": 109.7037854
+    },
+    "Candimulyo": {
+     "lat": -7.6735533,
+     "lon": 109.6927469
+    },
+    "Candiwulan": {
+     "lat": -7.6689061,
+     "lon": 109.6839882
+    },
+    "Depokrejo": {
+     "lat": -7.7034384,
+     "lon": 109.6801349
+    },
+    "Gemeksekti": {
+     "lat": -7.6545342,
+     "lon": 109.6510819
+    },
+    "Gesikan": {
+     "lat": -7.7092636,
+     "lon": 109.6939501
+    },
+    "Jatisari": {
+     "lat": -7.6993934,
+     "lon": 109.6929759
+    },
+    "Jemur": {
+     "lat": -7.646529,
+     "lon": 109.6577863
+    },
+    "Kalibagor": {
+     "lat": -7.711445,
+     "lon": 109.7041932
+    },
+    "Kalijirek": {
+     "lat": -7.6617691,
+     "lon": 109.6878111
+    },
+    "Kalirejo": {
+     "lat": -7.5616781,
+     "lon": 109.5869909
+    },
+    "Karangsari": {
+     "lat": -7.6555026,
+     "lon": 109.4862977
+    },
+    "Kawedusan": {
+     "lat": -7.6656901,
+     "lon": 109.6734125
+    },
+    "Kembaran": {
+     "lat": -7.6739605,
+     "lon": 109.6752513
+    },
+    "Kutosari": {
+     "lat": -7.6646375,
+     "lon": 109.647043
+    },
+    "Mengkowo": {
+     "lat": -7.7174395,
+     "lon": 109.6855561
+    },
+    "Muktirejo": {
+     "lat": -7.7073929,
+     "lon": 109.6653547
+    },
+    "Roworejo": {
+     "lat": -7.6798638,
+     "lon": 109.7067531
+    },
+    "Sumberadi": {
+     "lat": -7.6783694,
+     "lon": 109.6954204
+    },
+    "Tanahsari": {
+     "lat": -7.6719559,
+     "lon": 109.7059167
+    },
+    "Wonosari": {
+     "lat": -7.5239671,
+     "lon": 109.7287842
+    }
+   },
+   "kel_pts": {
+    "Bumirejo": {
+     "lat": -7.7199822,
+     "lon": 109.5437353
+    },
+    "Kebumen": {
+     "lat": -7.6686894,
+     "lon": 109.6519465
+    },
+    "Panjer": {
+     "lat": -7.6803875,
+     "lon": 109.6663434
+    },
+    "Selang": {
+     "lat": -7.6882929,
+     "lon": 109.6796676
+    },
+    "Tamanwinangun": {
+     "lat": -7.6915123,
+     "lon": 109.6649639
+    }
+   },
+   "kec_pt": {
+    "lat": -7.6686894,
+    "lon": 109.6519465,
+    "label": "Kebumen, Jawa Tengah, 54361, Indonesia",
+    "type": "city"
+   },
+   "desa_mapped": 28,
+   "desa_total": 29
+  },
+  {
+   "kode": "33.05.05",
+   "nama": "Klirong",
+   "penduduk_jiwa": 55246,
+   "luas_km2": 56.7,
+   "desa": [
+    "Bendogarap",
+    "Bumiharjo",
+    "Dorowati",
+    "Gadungrejo",
+    "Gebangsari",
+    "Jatimalang",
+    "Jerukagung",
+    "Jogosimo",
+    "Kaliwungu",
+    "Karangglonggong",
+    "Kebadongan",
+    "Kedungsari",
+    "Kedungwinangun",
+    "Klegenrejo",
+    "Klegenwonosari",
+    "Klirong",
+    "Pandanlor",
+    "Podoluhur",
+    "Ranterejo",
+    "Sitirejo",
+    "Tambakagung",
+    "Tambakprogaten",
+    "Tanggulangin",
+    "Wotbuwono"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Bendogarap": {
+     "lat": -7.7522758,
+     "lon": 109.6366583
+    },
+    "Bumiharjo": {
+     "lat": -7.6918638,
+     "lon": 109.6225254
+    },
+    "Dorowati": {
+     "lat": -7.7057036,
+     "lon": 109.6265176
+    },
+    "Gadungrejo": {
+     "lat": -7.7127672,
+     "lon": 109.6328034
+    },
+    "Gebangsari": {
+     "lat": -7.7541082,
+     "lon": 109.6177944
+    },
+    "Jatimalang": {
+     "lat": -7.7285386,
+     "lon": 109.6374559
+    },
+    "Jerukagung": {
+     "lat": -7.7381192,
+     "lon": 109.6459753
+    },
+    "Jogosimo": {
+     "lat": -7.766994,
+     "lon": 109.6129325
+    },
+    "Kaliwungu": {
+     "lat": -7.72677,
+     "lon": 109.6289244
+    },
+    "Karangglonggong": {
+     "lat": -7.7221856,
+     "lon": 109.6479264
+    },
+    "Kebadongan": {
+     "lat": -7.7009846,
+     "lon": 109.6322657
+    },
+    "Kedungsari": {
+     "lat": -7.7489446,
+     "lon": 109.6445031
+    },
+    "Kedungwinangun": {
+     "lat": -7.7060701,
+     "lon": 109.6490164
+    },
+    "Klegenrejo": {
+     "lat": -7.7516032,
+     "lon": 109.6267111
+    },
+    "Klegenwonosari": {
+     "lat": -7.743654,
+     "lon": 109.6357106
+    },
+    "Klirong": {
+     "lat": -7.7406853,
+     "lon": 109.6280676
+    },
+    "Pandanlor": {
+     "lat": -7.7661632,
+     "lon": 109.6390817
+    },
+    "Podoluhur": {
+     "lat": -7.6986173,
+     "lon": 109.6459509
+    },
+    "Ranterejo": {
+     "lat": -7.7304541,
+     "lon": 109.6541227
+    },
+    "Sitirejo": {
+     "lat": -7.7216735,
+     "lon": 109.6316793
+    },
+    "Tambakagung": {
+     "lat": -7.7198472,
+     "lon": 109.6429536
+    },
+    "Tambakprogaten": {
+     "lat": -7.7638937,
+     "lon": 109.6296236
+    },
+    "Tanggulangin": {
+     "lat": -7.7703052,
+     "lon": 109.6317181
+    },
+    "Wotbuwono": {
+     "lat": -7.7139634,
+     "lon": 109.6531367
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7406853,
+    "lon": 109.6280676,
+    "label": "Klirong, Kebumen, Jawa Tengah, 54381, Indonesia"
+   },
+   "desa_mapped": 24,
+   "desa_total": 24
+  },
+  {
+   "kode": "33.05.10",
+   "nama": "Kutowinangun",
+   "penduduk_jiwa": 46562,
+   "luas_km2": 38.7,
+   "desa": [
+    "Babadsari",
+    "Jlegiwinangun",
+    "Kaliputih",
+    "Karangsari",
+    "Korowelang",
+    "Kutowinangun",
+    "Kuwarisan",
+    "Lumbu",
+    "Lundong",
+    "Mekarsari",
+    "Mrinen",
+    "Pejagatan",
+    "Pekunden",
+    "Pesalakan",
+    "Tanjungmeru",
+    "Tanjungsari",
+    "Tanjungseto",
+    "Triwarno",
+    "Ungaran"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Babadsari": {
+     "lat": -7.7087356,
+     "lon": 109.756272
+    },
+    "Jlegiwinangun": {
+     "lat": -7.6862385,
+     "lon": 109.7682748
+    },
+    "Kaliputih": {
+     "lat": -7.6185141,
+     "lon": 109.7506775
+    },
+    "Karangsari": {
+     "lat": -7.6555026,
+     "lon": 109.4862977
+    },
+    "Korowelang": {
+     "lat": -7.68648,
+     "lon": 109.7812382
+    },
+    "Kutowinangun": {
+     "lat": -7.7201509,
+     "lon": 109.7393937
+    },
+    "Kuwarisan": {
+     "lat": -7.7154543,
+     "lon": 109.7288838
+    },
+    "Lumbu": {
+     "lat": -7.683518,
+     "lon": 109.7588247
+    },
+    "Lundong": {
+     "lat": -7.7085161,
+     "lon": 109.7398789
+    },
+    "Mekarsari": {
+     "lat": -7.7214187,
+     "lon": 109.746463
+    },
+    "Mrinen": {
+     "lat": -7.7217458,
+     "lon": 109.7674915
+    },
+    "Pejagatan": {
+     "lat": -7.7081127,
+     "lon": 109.7700898
+    },
+    "Pekunden": {
+     "lat": -7.7065982,
+     "lon": 109.7148497
+    },
+    "Pesalakan": {
+     "lat": -7.69224,
+     "lon": 109.7283951
+    },
+    "Tanjungmeru": {
+     "lat": -7.7224798,
+     "lon": 109.7184349
+    },
+    "Tanjungsari": {
+     "lat": -7.7209383,
+     "lon": 109.6655378
+    },
+    "Tanjungseto": {
+     "lat": -7.698973,
+     "lon": 109.7205773
+    },
+    "Triwarno": {
+     "lat": -7.6970432,
+     "lon": 109.7689722
+    },
+    "Ungaran": {
+     "lat": -7.7098298,
+     "lon": 109.760773
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7201509,
+    "lon": 109.7393937,
+    "label": "Kutowinangun, Kebumen, Jawa Tengah",
+    "type": "town"
+   },
+   "desa_mapped": 19,
+   "desa_total": 19
+  },
+  {
+   "kode": "33.05.16",
+   "nama": "Kuwarasan",
+   "penduduk_jiwa": 30811,
+   "luas_km2": 49.8,
+   "desa": [
+    "Banjareja",
+    "Bendungan",
+    "Gandusari",
+    "Gumawang",
+    "Gunungmujil",
+    "Harjodowo",
+    "Jatimulya",
+    "Kalipurwo",
+    "Kamulyan",
+    "Kuwarasan",
+    "Kuwaru",
+    "Lemahduwur",
+    "Maduresa",
+    "Mangli",
+    "Ori",
+    "Pondokgebangsari",
+    "Purwodadi",
+    "Sawangan",
+    "Serut",
+    "Sidomukti",
+    "Tambaksari",
+    "Wonoyoso"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Bendungan": {
+     "lat": -7.6343788,
+     "lon": 109.5164019
+    },
+    "Gandusari": {
+     "lat": -7.6646701,
+     "lon": 109.5152952
+    },
+    "Gumawang": {
+     "lat": -7.6501706,
+     "lon": 109.498519
+    },
+    "Gunungmujil": {
+     "lat": -7.6306116,
+     "lon": 109.5006147
+    },
+    "Harjodowo": {
+     "lat": -7.6759644,
+     "lon": 109.5047455
+    },
+    "Kalipurwo": {
+     "lat": -7.6806665,
+     "lon": 109.5117029
+    },
+    "Kamulyan": {
+     "lat": -7.6977747,
+     "lon": 109.4959165
+    },
+    "Kuwarasan": {
+     "lat": -7.6621675,
+     "lon": 109.5094711
+    },
+    "Kuwaru": {
+     "lat": -7.6397314,
+     "lon": 109.5051301
+    },
+    "Lemahduwur": {
+     "lat": -7.6712648,
+     "lon": 109.4955511
+    },
+    "Mangli": {
+     "lat": -7.6563339,
+     "lon": 109.5062779
+    },
+    "Ori": {
+     "lat": -7.6591915,
+     "lon": 109.5252921
+    },
+    "Pondokgebangsari": {
+     "lat": -7.6705704,
+     "lon": 109.5244489
+    },
+    "Purwodadi": {
+     "lat": -7.682656,
+     "lon": 109.5248322
+    },
+    "Sawangan": {
+     "lat": -7.6234243,
+     "lon": 109.5445554
+    },
+    "Serut": {
+     "lat": -7.6444967,
+     "lon": 109.5170771
+    },
+    "Sidomukti": {
+     "lat": -7.6995032,
+     "lon": 109.5011525
+    },
+    "Tambaksari": {
+     "lat": -7.6842035,
+     "lon": 109.498967
+    },
+    "Wonoyoso": {
+     "lat": -7.6311597,
+     "lon": 109.4938232
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6621675,
+    "lon": 109.5094711,
+    "label": "Kuwarasan, Kebumen, Jawa Tengah, 54366, Indonesia"
+   },
+   "desa_mapped": 19,
+   "desa_total": 22
+  },
+  {
+   "kode": "33.05.08",
+   "nama": "Mirit",
+   "penduduk_jiwa": 40609,
+   "luas_km2": 56.5,
+   "desa": [
+    "Karanggede",
+    "Kertodeso",
+    "Krubungan",
+    "Lembupurwo",
+    "Mangunranan",
+    "Mirit",
+    "Miritpetikusan",
+    "Ngabeyan",
+    "Patukgawemulyo",
+    "Patukrejomulyo",
+    "Pekutan",
+    "Rowo",
+    "Sarwogadung",
+    "Selotumpeng",
+    "Singoyudan",
+    "Sitibentar",
+    "Tlogodepok",
+    "Tlogopragoto",
+    "Wergonayan",
+    "Winong",
+    "Wirogaten",
+    "Wiromartan"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Karanggede": {
+     "lat": -7.7812882,
+     "lon": 109.7731232
+    },
+    "Kertodeso": {
+     "lat": -7.7772613,
+     "lon": 109.7921312
+    },
+    "Krubungan": {
+     "lat": -7.7273472,
+     "lon": 109.7774982
+    },
+    "Lembupurwo": {
+     "lat": -7.813804,
+     "lon": 109.8062473
+    },
+    "Mangunranan": {
+     "lat": -7.7702287,
+     "lon": 109.7845279
+    },
+    "Mirit": {
+     "lat": -7.8030292,
+     "lon": 109.7869509
+    },
+    "Miritpetikusan": {
+     "lat": -7.8048084,
+     "lon": 109.7662336
+    },
+    "Patukgawemulyo": {
+     "lat": -7.7859684,
+     "lon": 109.811992
+    },
+    "Patukrejomulyo": {
+     "lat": -7.7846965,
+     "lon": 109.7982862
+    },
+    "Pekutan": {
+     "lat": -7.7603772,
+     "lon": 109.7776764
+    },
+    "Rowo": {
+     "lat": -7.7899491,
+     "lon": 109.8293049
+    },
+    "Sarwogadung": {
+     "lat": -7.7355681,
+     "lon": 109.7876393
+    },
+    "Selotumpeng": {
+     "lat": -7.7983402,
+     "lon": 109.8040804
+    },
+    "Singoyudan": {
+     "lat": -7.8037566,
+     "lon": 109.8248573
+    },
+    "Sitibentar": {
+     "lat": -7.7917432,
+     "lon": 109.784789
+    },
+    "Tlogodepok": {
+     "lat": -7.8085672,
+     "lon": 109.7774076
+    },
+    "Wergonayan": {
+     "lat": -7.7978077,
+     "lon": 109.8082881
+    },
+    "Winong": {
+     "lat": -7.7457461,
+     "lon": 109.7816852
+    },
+    "Wirogaten": {
+     "lat": -7.7686401,
+     "lon": 109.7644405
+    },
+    "Wiromartan": {
+     "lat": -7.8190838,
+     "lon": 109.8229767
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.8030292,
+    "lon": 109.7869509,
+    "label": "Mirit, Kebumen, Jawa Tengah, 54392, Indonesia"
+   },
+   "desa_mapped": 20,
+   "desa_total": 22
+  },
+  {
+   "kode": "33.05.24",
+   "nama": "Padureso",
+   "penduduk_jiwa": 13795,
+   "luas_km2": 38.5,
+   "desa": [
+    "Balingasal",
+    "Kaligubuk",
+    "Kalijering",
+    "Merden",
+    "Padureso",
+    "Pejengkolan",
+    "Rahayu",
+    "Sendangdalem",
+    "Sidototo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Balingasal": {
+     "lat": -7.6562985,
+     "lon": 109.7862967
+    },
+    "Kaligubuk": {
+     "lat": -7.6273344,
+     "lon": 109.7967879
+    },
+    "Kalijering": {
+     "lat": -7.6312267,
+     "lon": 109.8067502
+    },
+    "Merden": {
+     "lat": -7.6486433,
+     "lon": 109.7966321
+    },
+    "Padureso": {
+     "lat": -7.6117373,
+     "lon": 109.7907007
+    },
+    "Pejengkolan": {
+     "lat": -7.6555333,
+     "lon": 109.7766128
+    },
+    "Rahayu": {
+     "lat": -7.6285151,
+     "lon": 109.7739394
+    },
+    "Sendangdalem": {
+     "lat": -7.6104126,
+     "lon": 109.7745936
+    },
+    "Sidototo": {
+     "lat": -7.6365283,
+     "lon": 109.786835
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6117373,
+    "lon": 109.7907007,
+    "label": "Padureso, Kebumen, Jawa Tengah, Indonesia"
+   },
+   "desa_mapped": 9,
+   "desa_total": 9
+  },
+  {
+   "kode": "33.05.13",
+   "nama": "Pejagoan",
+   "penduduk_jiwa": 42991,
+   "luas_km2": 61.7,
+   "desa": [
+    "Aditirto",
+    "Jemur",
+    "Karangpoh",
+    "Kebagoran",
+    "Kebulusan",
+    "Kedawung",
+    "Kewayuhan",
+    "Logede",
+    "Pejagoan",
+    "Pengaringan",
+    "Peniron",
+    "Prigi",
+    "Watulawang"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Aditirto": {
+     "lat": -7.6600309,
+     "lon": 109.6266174
+    },
+    "Jemur": {
+     "lat": -7.646529,
+     "lon": 109.6577863
+    },
+    "Karangpoh": {
+     "lat": -7.6496977,
+     "lon": 109.6405976
+    },
+    "Kebagoran": {
+     "lat": -7.6152735,
+     "lon": 109.653627
+    },
+    "Kebulusan": {
+     "lat": -7.6692236,
+     "lon": 109.6285114
+    },
+    "Kedawung": {
+     "lat": -7.6805655,
+     "lon": 109.6438753
+    },
+    "Logede": {
+     "lat": -7.6826112,
+     "lon": 109.623066
+    },
+    "Pejagoan": {
+     "lat": -7.6723636,
+     "lon": 109.6469176
+    },
+    "Pengaringan": {
+     "lat": -7.5982612,
+     "lon": 109.6389979
+    },
+    "Peniron": {
+     "lat": -7.5864435,
+     "lon": 109.648729
+    },
+    "Prigi": {
+     "lat": -7.6232572,
+     "lon": 109.6386029
+    },
+    "Watulawang": {
+     "lat": -7.5814665,
+     "lon": 109.6362112
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6723636,
+    "lon": 109.6469176,
+    "label": "Pejagoan, Kebumen, Jawa Tengah, 54361, Indonesia"
+   },
+   "desa_mapped": 12,
+   "desa_total": 13
+  },
+  {
+   "kode": "33.05.04",
+   "nama": "Petanahan",
+   "penduduk_jiwa": 47018,
+   "luas_km2": 58.8,
+   "desa": [
+    "Ampelsari",
+    "Banjarwinangun",
+    "Grogolbeningsari",
+    "Grogolpenatus",
+    "Grujugan",
+    "Jagamertan",
+    "Jatimulyo",
+    "Karangduwur",
+    "Karanggadung",
+    "Karangrejo",
+    "Kebonsari",
+    "Kritig",
+    "Kuwangunan",
+    "Munggu",
+    "Nampudadi",
+    "Petanahan",
+    "Podourip",
+    "Sidomulyo",
+    "Tanjungsari",
+    "Tegalretno",
+    "Tresnorejo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Ampelsari": {
+     "lat": -7.7569853,
+     "lon": 109.5980662
+    },
+    "Banjarwinangun": {
+     "lat": -7.7012489,
+     "lon": 109.6077846
+    },
+    "Grogolbeningsari": {
+     "lat": -7.7368335,
+     "lon": 109.6049684
+    },
+    "Grogolpenatus": {
+     "lat": -7.7387146,
+     "lon": 109.5983296
+    },
+    "Grujugan": {
+     "lat": -7.717923,
+     "lon": 109.6073408
+    },
+    "Jatimulyo": {
+     "lat": -7.6404369,
+     "lon": 109.532599
+    },
+    "Karangduwur": {
+     "lat": -7.7569906,
+     "lon": 109.4081828
+    },
+    "Karanggadung": {
+     "lat": -7.7659389,
+     "lon": 109.585192
+    },
+    "Karangrejo": {
+     "lat": -7.7574827,
+     "lon": 109.5746792
+    },
+    "Kebonsari": {
+     "lat": -7.7252387,
+     "lon": 109.5954629
+    },
+    "Kritig": {
+     "lat": -7.7046404,
+     "lon": 109.5976103
+    },
+    "Kuwangunan": {
+     "lat": -7.7359833,
+     "lon": 109.5763912
+    },
+    "Munggu": {
+     "lat": -7.755914,
+     "lon": 109.5856565
+    },
+    "Nampudadi": {
+     "lat": -7.7106336,
+     "lon": 109.5948753
+    },
+    "Podourip": {
+     "lat": -7.701245,
+     "lon": 109.5889311
+    },
+    "Sidomulyo": {
+     "lat": -7.7352282,
+     "lon": 109.7684233
+    },
+    "Tanjungsari": {
+     "lat": -7.7209383,
+     "lon": 109.6655378
+    },
+    "Tegalretno": {
+     "lat": -7.7707981,
+     "lon": 109.6019354
+    },
+    "Tresnorejo": {
+     "lat": -7.7125142,
+     "lon": 109.5785412
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7451475,
+    "lon": 109.5888942,
+    "label": "Kantor Kecamatan Petanahan, Jalan Daendels, Ampelsari, Kebum",
+    "type": "government"
+   },
+   "desa_mapped": 19,
+   "desa_total": 21
+  },
+  {
+   "kode": "33.05.09",
+   "nama": "Prembun",
+   "penduduk_jiwa": 15479,
+   "luas_km2": 37.4,
+   "desa": [
+    "Bagung",
+    "Kabekelan",
+    "Kabuaran",
+    "Kedungbulus",
+    "Kedungwaru",
+    "Mulyosri",
+    "Pecarikan",
+    "Pesuningan",
+    "Prembun",
+    "Sembirkadipaten",
+    "Sidogede",
+    "Tersobo",
+    "Tunggalroso"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Bagung": {
+     "lat": -7.7121124,
+     "lon": 109.7955127
+    },
+    "Kabekelan": {
+     "lat": -7.7225534,
+     "lon": 109.813166
+    },
+    "Kabuaran": {
+     "lat": -7.6717847,
+     "lon": 109.7861114
+    },
+    "Kedungbulus": {
+     "lat": -7.7040487,
+     "lon": 109.7906155
+    },
+    "Kedungwaru": {
+     "lat": -7.5935183,
+     "lon": 109.6671519
+    },
+    "Mulyosri": {
+     "lat": -7.6895052,
+     "lon": 109.7932065
+    },
+    "Pecarikan": {
+     "lat": -7.667248,
+     "lon": 109.8026512
+    },
+    "Pesuningan": {
+     "lat": -7.678303,
+     "lon": 109.7927504
+    },
+    "Prembun": {
+     "lat": -7.7235052,
+     "lon": 109.8003525
+    },
+    "Sembirkadipaten": {
+     "lat": -7.7080466,
+     "lon": 109.7958612
+    },
+    "Sidogede": {
+     "lat": -7.7108383,
+     "lon": 109.7840576
+    },
+    "Tersobo": {
+     "lat": -7.7184867,
+     "lon": 109.7808581
+    },
+    "Tunggalroso": {
+     "lat": -7.7257892,
+     "lon": 109.8260483
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7235052,
+    "lon": 109.8003525,
+    "label": "Prembun, Kebumen, Jawa Tengah, 54395, Indonesia"
+   },
+   "desa_mapped": 13,
+   "desa_total": 13
+  },
+  {
+   "kode": "33.05.25",
+   "nama": "Poncowarno",
+   "penduduk_jiwa": 36289,
+   "luas_km2": 32.9,
+   "desa": [
+    "Blater",
+    "Jatipurus",
+    "Jembangan",
+    "Karangtengah",
+    "Kebapangan",
+    "Kedungdowo",
+    "Lerepkebumen",
+    "Poncowarno",
+    "Soka",
+    "Tegalrejo",
+    "Tirtomoyo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Blater": {
+     "lat": -7.669724,
+     "lon": 109.7404488
+    },
+    "Jatipurus": {
+     "lat": -7.6795675,
+     "lon": 109.7214726
+    },
+    "Jembangan": {
+     "lat": -7.6647007,
+     "lon": 109.7684432
+    },
+    "Karangtengah": {
+     "lat": -7.6495328,
+     "lon": 109.7575099
+    },
+    "Kebapangan": {
+     "lat": -7.6356146,
+     "lon": 109.7572276
+    },
+    "Kedungdowo": {
+     "lat": -7.6443144,
+     "lon": 109.7724699
+    },
+    "Lerepkebumen": {
+     "lat": -7.6750391,
+     "lon": 109.7325188
+    },
+    "Poncowarno": {
+     "lat": -7.6803571,
+     "lon": 109.7431044
+    },
+    "Soka": {
+     "lat": -7.6519041,
+     "lon": 109.7294229
+    },
+    "Tegalrejo": {
+     "lat": -7.6642951,
+     "lon": 109.7498976
+    },
+    "Tirtomoyo": {
+     "lat": -7.6544987,
+     "lon": 109.7423357
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6803571,
+    "lon": 109.7431044,
+    "label": "Poncowarno, Kebumen, Jawa Tengah, Indonesia"
+   },
+   "desa_mapped": 11,
+   "desa_total": 11
+  },
+  {
+   "kode": "33.05.03",
+   "nama": "Puring",
+   "penduduk_jiwa": 40433,
+   "luas_km2": 61.9,
+   "desa": [
+    "Arjowinangun",
+    "Banjarejo",
+    "Bumirejo",
+    "Kaleng",
+    "Kedalemankulon",
+    "Kedalemanwetan",
+    "Krandegan",
+    "Madurejo",
+    "Pasuruhan",
+    "Puliharjo",
+    "Purwoharjo",
+    "Purwosari",
+    "Sidobunder",
+    "Sidodadi",
+    "Sidoharjo",
+    "Sitiadi",
+    "Srusuhjurutengah",
+    "Surorejan",
+    "Tambakmulyo",
+    "Tukinggedong",
+    "Waluyorejo",
+    "Wetonkulon",
+    "Wetonwetan"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Arjowinangun": {
+     "lat": -7.7246262,
+     "lon": 109.5637752
+    },
+    "Banjarejo": {
+     "lat": -7.7468731,
+     "lon": 109.5116538
+    },
+    "Bumirejo": {
+     "lat": -7.7199822,
+     "lon": 109.5437353
+    },
+    "Kaleng": {
+     "lat": -7.7409277,
+     "lon": 109.5475689
+    },
+    "Kedalemankulon": {
+     "lat": -7.7272187,
+     "lon": 109.5047081
+    },
+    "Kedalemanwetan": {
+     "lat": -7.728975,
+     "lon": 109.5107531
+    },
+    "Krandegan": {
+     "lat": -7.726242,
+     "lon": 109.5556205
+    },
+    "Madurejo": {
+     "lat": -7.7031044,
+     "lon": 109.5346119
+    },
+    "Puliharjo": {
+     "lat": -7.7495121,
+     "lon": 109.5613214
+    },
+    "Purwoharjo": {
+     "lat": -7.7364009,
+     "lon": 109.5315242
+    },
+    "Purwosari": {
+     "lat": -7.7388912,
+     "lon": 109.5657169
+    },
+    "Sidobunder": {
+     "lat": -7.7076719,
+     "lon": 109.524319
+    },
+    "Sidodadi": {
+     "lat": -7.6969262,
+     "lon": 109.5110503
+    },
+    "Sidoharjo": {
+     "lat": -7.7623369,
+     "lon": 109.557533
+    },
+    "Sitiadi": {
+     "lat": -7.7312421,
+     "lon": 109.5231074
+    },
+    "Srusuhjurutengah": {
+     "lat": -7.7290175,
+     "lon": 109.5158976
+    },
+    "Surorejan": {
+     "lat": -7.7577411,
+     "lon": 109.5179071
+    },
+    "Tambakmulyo": {
+     "lat": -7.7504545,
+     "lon": 109.489255
+    },
+    "Tukinggedong": {
+     "lat": -7.7369028,
+     "lon": 109.5405229
+    },
+    "Waluyorejo": {
+     "lat": -7.7571951,
+     "lon": 109.5331503
+    },
+    "Wetonkulon": {
+     "lat": -7.726335,
+     "lon": 109.4943964
+    },
+    "Wetonwetan": {
+     "lat": -7.7253475,
+     "lon": 109.4985325
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.7353219,
+    "lon": 109.5230001,
+    "label": "Puring, Kebumen, Jawa Tengah, 54383, Indonesia"
+   },
+   "desa_mapped": 22,
+   "desa_total": 23
+  },
+  {
+   "kode": "33.05.17",
+   "nama": "Rowokele",
+   "penduduk_jiwa": 32568,
+   "luas_km2": 83.7,
+   "desa": [
+    "Bumiagung",
+    "Giyanti",
+    "Jatiluhur",
+    "Kalisari",
+    "Kretek",
+    "Pringtutul",
+    "Redisari",
+    "Rowokele",
+    "Sukomulyo",
+    "Wagirpandan",
+    "Wonoharjo"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Bumiagung": {
+     "lat": -7.6180582,
+     "lon": 109.4479971
+    },
+    "Giyanti": {
+     "lat": -7.5703649,
+     "lon": 109.4581624
+    },
+    "Jatiluhur": {
+     "lat": -7.5994207,
+     "lon": 109.4444456
+    },
+    "Kalisari": {
+     "lat": -7.6615141,
+     "lon": 109.4495048
+    },
+    "Kretek": {
+     "lat": -7.5963694,
+     "lon": 109.4544207
+    },
+    "Pringtutul": {
+     "lat": -7.6508419,
+     "lon": 109.4299024
+    },
+    "Redisari": {
+     "lat": -7.6592791,
+     "lon": 109.4304546
+    },
+    "Rowokele": {
+     "lat": -7.6410541,
+     "lon": 109.4325165
+    },
+    "Sukomulyo": {
+     "lat": -7.5928948,
+     "lon": 109.4707783
+    },
+    "Wagirpandan": {
+     "lat": -7.5771714,
+     "lon": 109.4256748
+    },
+    "Wonoharjo": {
+     "lat": -7.5642141,
+     "lon": 109.443229
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6410541,
+    "lon": 109.4325165,
+    "label": "Rowokele, Kebumen, Jawa Tengah, 54473, Indonesia"
+   },
+   "desa_mapped": 11,
+   "desa_total": 11
+  },
+  {
+   "kode": "33.05.22",
+   "nama": "Sadang",
+   "penduduk_jiwa": 16422,
+   "luas_km2": 69.2,
+   "desa": [
+    "Cangkring",
+    "Kedunggong",
+    "Pucangan",
+    "Sadangkulon",
+    "Sadangwetan",
+    "Seboro",
+    "Wonosari"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Cangkring": {
+     "lat": -7.5095535,
+     "lon": 109.7447731
+    },
+    "Kedunggong": {
+     "lat": -7.4734545,
+     "lon": 109.7473563
+    },
+    "Pucangan": {
+     "lat": -7.7719596,
+     "lon": 109.7211248
+    },
+    "Sadangwetan": {
+     "lat": -7.5018376,
+     "lon": 109.7418617
+    },
+    "Seboro": {
+     "lat": -7.5167997,
+     "lon": 109.7092598
+    },
+    "Wonosari": {
+     "lat": -7.5239671,
+     "lon": 109.7287842
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.521097,
+    "lon": 109.6974537,
+    "label": "Sadang, Kebumen, Jawa Tengah, Indonesia"
+   },
+   "desa_mapped": 6,
+   "desa_total": 7
+  },
+  {
+   "kode": "33.05.18",
+   "nama": "Sempor",
+   "penduduk_jiwa": 50346,
+   "luas_km2": 130.2,
+   "desa": [
+    "Bejiruyung",
+    "Bonosari",
+    "Donorojo",
+    "Jatinegoro",
+    "Kalibeji",
+    "Kedungjati",
+    "Kedungwringin",
+    "Kenteng",
+    "Pekuncen",
+    "Sampang",
+    "Selokerto",
+    "Semali",
+    "Sempor",
+    "Sidoharum",
+    "Somagede",
+    "Tunjungseto"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Bejiruyung": {
+     "lat": -7.5840919,
+     "lon": 109.5103046
+    },
+    "Bonosari": {
+     "lat": -7.5679462,
+     "lon": 109.5086198
+    },
+    "Donorojo": {
+     "lat": -7.5210165,
+     "lon": 109.5042568
+    },
+    "Kalibeji": {
+     "lat": -7.5891988,
+     "lon": 109.4888026
+    },
+    "Kedungjati": {
+     "lat": -7.5786677,
+     "lon": 109.5347316
+    },
+    "Kedungwringin": {
+     "lat": -7.5410661,
+     "lon": 109.5027236
+    },
+    "Kenteng": {
+     "lat": -7.5514891,
+     "lon": 109.5450971
+    },
+    "Pekuncen": {
+     "lat": -7.5804015,
+     "lon": 109.5202414
+    },
+    "Sampang": {
+     "lat": -7.5363227,
+     "lon": 109.4627565
+    },
+    "Selokerto": {
+     "lat": -7.6096293,
+     "lon": 109.494074
+    },
+    "Semali": {
+     "lat": -7.567684,
+     "lon": 109.5328846
+    },
+    "Sempor": {
+     "lat": -7.5621323,
+     "lon": 109.479175
+    },
+    "Sidoharum": {
+     "lat": -7.6021337,
+     "lon": 109.4893783
+    },
+    "Somagede": {
+     "lat": -7.522937,
+     "lon": 109.5664304
+    },
+    "Tunjungseto": {
+     "lat": -7.5764112,
+     "lon": 109.483044
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.5621323,
+    "lon": 109.479175,
+    "label": "Sempor, Kebumen, Jawa Tengah, Indonesia"
+   },
+   "desa_mapped": 15,
+   "desa_total": 16
+  },
+  {
+   "kode": "33.05.14",
+   "nama": "Sruweng",
+   "penduduk_jiwa": 59811,
+   "luas_km2": 64.6,
+   "desa": [
+    "Condongcampur",
+    "Donosari",
+    "Giwangretno",
+    "Jabres",
+    "Karanggedang",
+    "Karangjambu",
+    "Karangpule",
+    "Karangsari",
+    "Kejawang",
+    "Klepusanggar",
+    "Menganti",
+    "Pakuran",
+    "Pandansari",
+    "Pengempon",
+    "Penusupan",
+    "Purwodeso",
+    "Sidoagung",
+    "Sidoharjo",
+    "Sruweng",
+    "Tanggeran",
+    "Trikarso"
+   ],
+   "kelurahan": [],
+   "desa_pts": {
+    "Condongcampur": {
+     "lat": -7.5942917,
+     "lon": 109.6263341
+    },
+    "Donosari": {
+     "lat": -7.614594,
+     "lon": 109.6155591
+    },
+    "Giwangretno": {
+     "lat": -7.6731962,
+     "lon": 109.6163967
+    },
+    "Jabres": {
+     "lat": -7.666317,
+     "lon": 109.6186316
+    },
+    "Karanggedang": {
+     "lat": -7.6562794,
+     "lon": 109.5894921
+    },
+    "Karangjambu": {
+     "lat": -7.6292825,
+     "lon": 109.6105695
+    },
+    "Karangpule": {
+     "lat": -7.6503909,
+     "lon": 109.6209427
+    },
+    "Karangsari": {
+     "lat": -7.6555026,
+     "lon": 109.4862977
+    },
+    "Kejawang": {
+     "lat": -7.6357664,
+     "lon": 109.6146649
+    },
+    "Klepusanggar": {
+     "lat": -7.6425195,
+     "lon": 109.595315
+    },
+    "Menganti": {
+     "lat": -7.6811363,
+     "lon": 109.5953707
+    },
+    "Pakuran": {
+     "lat": -7.6939802,
+     "lon": 109.4654077
+    },
+    "Pandansari": {
+     "lat": -7.61867,
+     "lon": 109.6284029
+    },
+    "Pengempon": {
+     "lat": -7.6392286,
+     "lon": 109.6299638
+    },
+    "Penusupan": {
+     "lat": -7.6040857,
+     "lon": 109.6110831
+    },
+    "Purwodeso": {
+     "lat": -7.6512044,
+     "lon": 109.5800209
+    },
+    "Sidoagung": {
+     "lat": -7.6290595,
+     "lon": 109.5960438
+    },
+    "Sidoharjo": {
+     "lat": -7.7623369,
+     "lon": 109.557533
+    },
+    "Sruweng": {
+     "lat": -7.6605513,
+     "lon": 109.6044213
+    },
+    "Tanggeran": {
+     "lat": -7.6536357,
+     "lon": 109.6046035
+    },
+    "Trikarso": {
+     "lat": -7.6865095,
+     "lon": 109.6093804
+    }
+   },
+   "kel_pts": {},
+   "kec_pt": {
+    "lat": -7.6605513,
+    "lon": 109.6044213,
+    "label": "Sruweng, Kebumen, Jawa Tengah, 54362, Indonesia"
+   },
+   "desa_mapped": 21,
+   "desa_total": 21
+  }
+ ]
+}

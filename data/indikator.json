@@ -1,0 +1,258 @@
+[
+ {
+  "indikator": "Belanja Bantuan Sosial",
+  "tahun": 2025,
+  "nilai": 4610070980.0,
+  "satuan": "Rupiah",
+  "opd": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "file": "x_belanja-bantuan-sosial-tahun-2025-700ce6.xlsx"
+ },
+ {
+  "indikator": "Indeks Literasi (Indeks Pembangunan Litrasi Masyarakat)",
+  "tahun": 2025,
+  "nilai": 17.46,
+  "satuan": "Indeks",
+  "opd": "Dinas Kearsipan dan Perpustakaan",
+  "file": "x_indeks-literasi-indeks-pembangunan-litrasi-masyarakat-tahun-2025-dedc2c.xlsx"
+ },
+ {
+  "indikator": "Jumlah kunjungan wisatawan",
+  "tahun": 2024,
+  "nilai": 2983422.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2024-8c70c5.xlsx"
+ },
+ {
+  "indikator": "Mancanegara",
+  "tahun": 2024,
+  "nilai": 23.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2024-8c70c5.xlsx"
+ },
+ {
+  "indikator": "Nusantara",
+  "tahun": 2024,
+  "nilai": 2983422.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2024-8c70c5.xlsx"
+ },
+ {
+  "indikator": "Jumlah wisata yang dikelola Pemda",
+  "tahun": 2024,
+  "nilai": 9.0,
+  "satuan": "Objek wisata",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2024-8c70c5.xlsx"
+ },
+ {
+  "indikator": "Jumlah kunjungan wisatawan nusantara.",
+  "tahun": 2024,
+  "nilai": 2983422.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2024-8c70c5.xlsx"
+ },
+ {
+  "indikator": "Jumlah kunjungan wisatawan",
+  "tahun": 2025,
+  "nilai": 3884348.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2025-cc9945.xlsx"
+ },
+ {
+  "indikator": "Mancanegara",
+  "tahun": 2025,
+  "nilai": 25.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2025-cc9945.xlsx"
+ },
+ {
+  "indikator": "Nusantara",
+  "tahun": 2025,
+  "nilai": 3884323.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2025-cc9945.xlsx"
+ },
+ {
+  "indikator": "Lama tinggal wisatawan",
+  "tahun": 2025,
+  "nilai": 1.23,
+  "satuan": "Hari",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2025-cc9945.xlsx"
+ },
+ {
+  "indikator": "Jumlah wisata yang dikelola Pemda",
+  "tahun": 2025,
+  "nilai": 6.0,
+  "satuan": "Objek wisata",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2025-cc9945.xlsx"
+ },
+ {
+  "indikator": "Jumlah kunjungan wisatawan nusantara.",
+  "tahun": 2025,
+  "nilai": 3884323.0,
+  "satuan": "Orang",
+  "opd": "Dinas Pariwisata dan Kebudayaan",
+  "file": "x_jumlah-kunjungan-wisatawan-tahun-2025-cc9945.xlsx"
+ },
+ {
+  "indikator": "Jumlah Penduduk",
+  "tahun": 2024,
+  "nilai": 1441425.0,
+  "satuan": "Orang",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_jumlah-penduduk-tahun-2024-906271.xlsx"
+ },
+ {
+  "indikator": "Jumlah Penduduk",
+  "tahun": 2025,
+  "nilai": 1453417.0,
+  "satuan": "Jiwa",
+  "opd": "Dinas Kependudukan dan Pencatatan Sipil",
+  "file": "x_jumlah-penduduk-tahun-2025-6da6ee.xlsx"
+ },
+ {
+  "indikator": "Kepadatan Penduduk",
+  "tahun": 2020,
+  "nilai": 1092.8,
+  "satuan": "Jiwa/Km",
+  "opd": "Dinas Kependudukan dan Pencatatan Sipil",
+  "file": "x_kepadatan-penduduk-tahun-2020-858f51.xlsx"
+ },
+ {
+  "indikator": "Kepadatan Penduduk",
+  "tahun": 2025,
+  "nilai": 1134.49,
+  "satuan": "Jiwa/Km",
+  "opd": "Dinas Kependudukan dan Pencatatan Sipil",
+  "file": "x_kepadatan-penduduk-tahun-2025-6f2a03.xlsx"
+ },
+ {
+  "indikator": "Luas kawasan tanaman pangan",
+  "tahun": 2024,
+  "nilai": 8467.0,
+  "satuan": "Ha",
+  "opd": "Dinas Pertanian dan Pangan",
+  "file": "x_luas-kawasan-tanaman-pangan-tahun-2024-8b18d3.xlsx"
+ },
+ {
+  "indikator": "Luas kawasan tanaman pangan",
+  "tahun": 2025,
+  "nilai": 75.0,
+  "satuan": "Ha",
+  "opd": "Dinas Pertanian dan Pangan",
+  "file": "x_luas-kawasan-tanaman-pangan-tahun-2025-374e36.xlsx"
+ },
+ {
+  "indikator": "Pelaksanaan Pendidikan Kependudukan Jalur Pendidikan Formal dan Nonformal",
+  "tahun": 2025,
+  "nilai": 5.0,
+  "satuan": "Kegiatan",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_pelaksanaan-pendidikan-kependudukan-jalur-pendidikan-formal-dan-nonformal-tahun-2025-b76b3f.xlsx"
+ },
+ {
+  "indikator": "Penetapan APBD",
+  "tahun": 2024,
+  "nilai": 2.0,
+  "satuan": "Dokumen",
+  "opd": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "file": "x_penetapan-apbd-tahun-2024-e1fbb6.xlsx"
+ },
+ {
+  "indikator": "Penetapan APBD",
+  "tahun": 2025,
+  "nilai": 2.0,
+  "satuan": "Dokumen",
+  "opd": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "file": "x_penetapan-apbd-tahun-2025-3060f1.xlsx"
+ },
+ {
+  "indikator": "Penguatan Kerjasama Pelaksanaan Pendidikan Kependudukan Jalur Pendidikan Formal",
+  "tahun": 2025,
+  "nilai": 5.0,
+  "satuan": "Kegiatan",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_penguatan-kerjasama-pelaksanaan-pendidikan-kependudukan-jalur-pendidikan-formal-tahun-2025-ba4214.xlsx"
+ },
+ {
+  "indikator": "Persentase penduduk yang hidup di bawah garis kemiskinan nasional, menurut jenis kelamin dan kelompok umur.",
+  "tahun": null,
+  "nilai": 15.71,
+  "satuan": "%",
+  "opd": "Badan Perencanaan Pembangunan, Riset dan Inovasi Daerah",
+  "file": "x_persentase-penduduk-yang-hidup-di-bawah-garis-kemiskinan-nasional-menurut-jenis-kelamin-dan-k-2d47dd.xlsx"
+ },
+ {
+  "indikator": "Persentase penduduk yang hidup di bawah garis kemiskinan nasional, menurut jenis kelamin dan kelompok umur.",
+  "tahun": null,
+  "nilai": 13.58,
+  "satuan": "%",
+  "opd": "Badan Perencanaan Pembangunan, Riset dan Inovasi Daerah",
+  "file": "x_persentase-penduduk-yang-hidup-di-bawah-garis-kemiskinan-nasional-menurut-jenis-kelamin-dan-k-d67517.xlsx"
+ },
+ {
+  "indikator": "Prevalensi Stunting (pendek dan sangat pendek) pada balita  (%)",
+  "tahun": 2024,
+  "nilai": 9.17,
+  "satuan": "%",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_prevalensi-stunting-pendek-dan-sangat-pendek-pada-balita-tahun-2024-4a7ffd.xlsx"
+ },
+ {
+  "indikator": "Prevalensi Stunting (pendek dan sangat pendek) pada balita  (%)",
+  "tahun": 2025,
+  "nilai": 7.53,
+  "satuan": "%",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_prevalensi-stunting-pendek-dan-sangat-pendek-pada-balita-tahun-2025-d3a576.xlsx"
+ },
+ {
+  "indikator": "Proporsi peserta jaminan kesehatan melalui SJSN Bidang Kesehatan",
+  "tahun": 2024,
+  "nilai": 99.13,
+  "satuan": "%",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_proporsi-peserta-jaminan-kesehatan-melalui-sjsn-bidang-kesehatan-tahun-2024-bf26ef.xlsx"
+ },
+ {
+  "indikator": "Proporsi peserta jaminan kesehatan melalui SJSN Bidang Kesehatan",
+  "tahun": 2025,
+  "nilai": 98.8,
+  "satuan": "%",
+  "opd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+  "file": "x_proporsi-peserta-jaminan-kesehatan-melalui-sjsn-bidang-kesehatan-tahun-2025-462350.xlsx"
+ },
+ {
+  "indikator": "Tingkat Kemiskinan (%)",
+  "tahun": 2025,
+  "nilai": 13.58,
+  "satuan": "%",
+  "opd": "Sekretariat Daerah",
+  "file": "x_tingkat-kemiskinan-tahun-2025-77e61f.xlsx"
+ },
+ {
+  "indikator": "Tingkat Pengangguran Terbuka",
+  "tahun": 2024,
+  "nilai": 5.07,
+  "satuan": "%",
+  "opd": "Dinas Tenaga Kerja",
+  "file": "x_tingkat-pengangguran-terbuka-tahun-2024-37f316.xlsx"
+ },
+ {
+  "indikator": "Tingkat Pengangguran Terbuka",
+  "tahun": 2025,
+  "nilai": 4.95,
+  "satuan": "%",
+  "opd": "Dinas Tenaga Kerja",
+  "file": "x_tingkat-pengangguran-terbuka-tahun-2025-3caa63.xlsx"
+ }
+]

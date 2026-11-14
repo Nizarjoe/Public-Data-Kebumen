@@ -1,0 +1,150 @@
+{
+ "Ayah": {
+  "kecamatan": "Ayah",
+  "luas_panen_ha_2022": 2086.0,
+  "produksi_ton_2022": 12787.18,
+  "luas_panen_ha_2023": 2116.0,
+  "produksi_ton_2023": 11530.18
+ },
+ "Buayan": {
+  "kecamatan": "Buayan",
+  "luas_panen_ha_2022": 2291.0,
+  "produksi_ton_2022": 14043.83,
+  "luas_panen_ha_2023": 2210.0,
+  "produksi_ton_2023": 12456.15
+ },
+ "Puring": {
+  "kecamatan": "Puring",
+  "luas_panen_ha_2022": 4889.0,
+  "produksi_ton_2022": 29969.57,
+  "luas_panen_ha_2023": 4703.0,
+  "produksi_ton_2023": 27897.6
+ },
+ "Petanahan": {
+  "kecamatan": "Petanahan",
+  "luas_panen_ha_2022": 3900.0,
+  "produksi_ton_2022": 23907.0,
+  "luas_panen_ha_2023": 3827.0,
+  "produksi_ton_2023": 22550.44
+ },
+ "Klirong": {
+  "kecamatan": "Klirong",
+  "luas_panen_ha_2022": 2683.0,
+  "produksi_ton_2022": 16446.79,
+  "luas_panen_ha_2023": 2624.0,
+  "produksi_ton_2023": 16366.77
+ },
+ "Buluspesantren": {
+  "kecamatan": "Buluspesantren",
+  "luas_panen_ha_2022": 4086.0,
+  "produksi_ton_2022": 25047.18,
+  "luas_panen_ha_2023": 3977.0,
+  "produksi_ton_2023": 23199.18
+ },
+ "Ambal": {
+  "kecamatan": "Ambal",
+  "luas_panen_ha_2022": 4643.0,
+  "produksi_ton_2022": 28461.59,
+  "luas_panen_ha_2023": 4741.0,
+  "produksi_ton_2023": 27328.84
+ },
+ "Mirit": {
+  "kecamatan": "Mirit",
+  "luas_panen_ha_2022": 3854.88,
+  "produksi_ton_2022": 23630.41,
+  "luas_panen_ha_2023": 3254.4,
+  "produksi_ton_2023": 17380.64
+ },
+ "Bonorowo": {
+  "kecamatan": "Bonorowo",
+  "luas_panen_ha_2022": 2559.16,
+  "produksi_ton_2022": 15687.65,
+  "luas_panen_ha_2023": 2524.8,
+  "produksi_ton_2023": 12712.86
+ },
+ "Prembun": {
+  "kecamatan": "Prembun",
+  "luas_panen_ha_2022": 1868.77,
+  "luas_panen_ha_2023": 1733.76
+ },
+ "Padureso": {
+  "kecamatan": "Padureso",
+  "luas_panen_ha_2022": 839.04,
+  "luas_panen_ha_2023": 645.12
+ },
+ "Kutowinangun": {
+  "kecamatan": "Kutowinangun",
+  "luas_panen_ha_2022": 2529.83,
+  "luas_panen_ha_2023": 2477.76
+ },
+ "Alian": {
+  "kecamatan": "Alian",
+  "luas_panen_ha_2022": 2731.27,
+  "luas_panen_ha_2023": 2585.28
+ },
+ "Poncowarno": {
+  "kecamatan": "Poncowarno",
+  "luas_panen_ha_2022": 1179.35,
+  "luas_panen_ha_2023": 1345.92
+ },
+ "Kebumen": {
+  "kecamatan": "Kebumen",
+  "luas_panen_ha_2022": 4323.3,
+  "luas_panen_ha_2023": 4178.88
+ },
+ "Pejagoan": {
+  "kecamatan": "Pejagoan",
+  "luas_panen_ha_2022": 1297.67,
+  "luas_panen_ha_2023": 1273.92
+ },
+ "Sruweng": {
+  "kecamatan": "Sruweng",
+  "luas_panen_ha_2022": 2630.55,
+  "luas_panen_ha_2023": 2556.48
+ },
+ "Adimulyo": {
+  "kecamatan": "Adimulyo",
+  "luas_panen_ha_2022": 5845.89,
+  "luas_panen_ha_2023": 5384.64
+ },
+ "Kuwarasan": {
+  "kecamatan": "Kuwarasan",
+  "luas_panen_ha_2022": 4090.56,
+  "luas_panen_ha_2023": 4030.08
+ },
+ "Rowokele": {
+  "kecamatan": "Rowokele",
+  "luas_panen_ha_2022": 1910.82,
+  "luas_panen_ha_2023": 1849.92
+ },
+ "Sempor": {
+  "kecamatan": "Sempor",
+  "luas_panen_ha_2022": 2271.47,
+  "luas_panen_ha_2023": 2257.92
+ },
+ "Gombong": {
+  "kecamatan": "Gombong",
+  "luas_panen_ha_2022": 2054.57,
+  "luas_panen_ha_2023": 2019.84
+ },
+ "Karanganyar": {
+  "kecamatan": "Karanganyar",
+  "luas_panen_ha_2022": 1566.6,
+  "luas_panen_ha_2023": 1534.08
+ },
+ "Karanggayam": {
+  "kecamatan": "Karanggayam",
+  "luas_panen_ha_2022": 1611.58,
+  "luas_panen_ha_2023": 1559.04
+ },
+ "Sadang": {
+  "kecamatan": "Sadang",
+  "luas_panen_ha_2022": 1702.52,
+  "luas_panen_ha_2023": 1586.88
+ },
+ "Karangsambung": {
+  "kecamatan": "Karangsambung",
+  "luas_panen_ha_2022": 2625.66,
+  "luas_panen_ha_2023": 2476.8
+ }
+}
